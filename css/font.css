@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'smiley';
+    src: url('../src/font/smiley.ttf');
+}
+
+@font-face {
+    font-family: 'dingtalk';
+    src: url('../src/font/dingtalk.ttf');
+}
+
+@font-face {
+    font-family: 'alimama';
+    src: url('../src/font/alimama.ttf');
+}
